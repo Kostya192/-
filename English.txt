@@ -1,0 +1,9 @@
+Rules of the game:
+1. Artificial intelligence makes a word.
+2. The number of attempts is limited!!!
+3. You have to guess this word.
+4. To guess this word, you must enter only one letter at a time.
+Russian Russian 5. The number of attempts is limited!!!
+6. There are 10 attempts in total.
+7. To guess a word, you need to enter one letter at a time, the words are all in Russian, therefore the program will not count characters or other letters except Russian.
+8. Good luck!

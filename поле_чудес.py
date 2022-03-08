@@ -27,7 +27,7 @@ if game == '!start':
     ch = input() # вводим букву
     word = ch.split()
     rounds = 1 # количество попыток
-    stop = 4
+    stop = 10
     while stop > 0:       
         if word == s1.split():
             print('УРА!')
